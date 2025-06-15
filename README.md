@@ -1,6 +1,6 @@
 # cold-start-latency-enhancement
 
-Hybrid Cold Start Optimization in Serverless Environments
+Enhancing Performance and Efficiency of Serverless Computing (cold-start) paper implimentation
 ----------------------------------------------------------
 
 Overview
